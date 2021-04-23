@@ -1,0 +1,13 @@
+C:\Users\Kacper\source\repos\genetykav2\genetykav2\bin\Debug\netcoreapp3.1\genetykav2.exe
+C:\Users\Kacper\source\repos\genetykav2\genetykav2\bin\Debug\netcoreapp3.1\genetykav2.deps.json
+C:\Users\Kacper\source\repos\genetykav2\genetykav2\bin\Debug\netcoreapp3.1\genetykav2.runtimeconfig.json
+C:\Users\Kacper\source\repos\genetykav2\genetykav2\bin\Debug\netcoreapp3.1\genetykav2.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\genetykav2\genetykav2\bin\Debug\netcoreapp3.1\genetykav2.dll
+C:\Users\Kacper\source\repos\genetykav2\genetykav2\bin\Debug\netcoreapp3.1\genetykav2.pdb
+C:\Users\Kacper\source\repos\genetykav2\genetykav2\obj\Debug\netcoreapp3.1\genetykav2.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\genetykav2\genetykav2\obj\Debug\netcoreapp3.1\genetykav2.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\genetykav2\genetykav2\obj\Debug\netcoreapp3.1\genetykav2.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\genetykav2\genetykav2\obj\Debug\netcoreapp3.1\genetykav2.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\genetykav2\genetykav2\obj\Debug\netcoreapp3.1\genetykav2.dll
+C:\Users\Kacper\source\repos\genetykav2\genetykav2\obj\Debug\netcoreapp3.1\genetykav2.pdb
+C:\Users\Kacper\source\repos\genetykav2\genetykav2\obj\Debug\netcoreapp3.1\genetykav2.genruntimeconfig.cache
