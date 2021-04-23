@@ -1,0 +1,20 @@
+Algorytm wykonany: 4/23/2021 8:40:41 AM Rozmiar populacji: 4000 szansa na mutacje: 0.01% elitism: 0% Geny docelowe: aaaaaaaaaaaaaaaaaaaaa
+2 Najlepsze geny w populacji: x(PaaWIaDGWxXS(mTc#Ua Fitness:0.1904762
+3 Najlepsze geny w populacji: )kdaaWUaFG@aXl(^Tcpea Fitness:0.23809524
+4 Najlepsze geny w populacji: )keaapUXJ^=a+p(BTl@ea Fitness:0.1904762
+5 Najlepsze geny w populacji: z)a+l@aGpa MxyaYMcYha Fitness:0.23809524
+6 Najlepsze geny w populacji: aw=a+ahTMaAL,aPYaPj^D Fitness:0.2857143
+7 Najlepsze geny w populacji: aqYaaHLa=aOaxycXqya$a Fitness:0.3809524
+8 Najlepsze geny w populacji: zYXSaaaaaaf*aKA)X%raa Fitness:0.42857143
+9 Najlepsze geny w populacji: a*(AaaJpmaraw&aaiaa=a Fitness:0.47619048
+10 Najlepsze geny w populacji: aUbaabBaaAaaqaaag&v m Fitness:0.47619048
+11 Najlepsze geny w populacji: Uaaa_aaZiaaaWavaaja$a Fitness:0.61904764
+12 Najlepsze geny w populacji: mataOaaaaaabGaKaaaa$a Fitness:0.6666667
+13 Najlepsze geny w populacji: aataOaUaaaaaGb%aaaa$a Fitness:0.6666667
+14 Najlepsze geny w populacji: aaBaaaaaaaaaaala)kwaa Fitness:0.7619048
+15 Najlepsze geny w populacji: aaaaaaaaMa,aadaaaaa#a Fitness:0.8095238
+16 Najlepsze geny w populacji: aaaaaaaaPaaa*+aaaIaaa Fitness:0.8095238
+17 Najlepsze geny w populacji: aaabaaaaPaaaaaaaXaaaa Fitness:0.85714287
+18 Najlepsze geny w populacji: aaOaaaaaaaaaaaaa=aaaa Fitness:0.9047619
+19 Najlepsze geny w populacji: aaaaaaaaaaaaiaaaaaa#a Fitness:0.9047619
+20 Najlepsze geny w populacji: aaaaaaaaaaaaaaaaaaaaa Fitness:1
